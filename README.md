@@ -1,5 +1,5 @@
 # Attune — Exam & College Entrance Study Path for Students with Unreliable Internet
-#MICRO1 HACKATHON
+MICRO1 HACKATHON
 
 **A global problem, not a regional one:** an estimated 2.6 billion people — roughly a third of the world's population — remain offline in 2026, according to the International Telecommunication Union. For students, that gap intersects with a hard deadline that makes it especially costly: a national exam or college entrance exam (ENEM/vestibular in Brazil, the GED in the U.S., and equivalents worldwide) doesn't wait for connectivity to improve. This agent is for exactly that student: preparing for a specific exam, without an individual tutor available, and without reliable internet where they actually study. It turns a syllabus (or just a stated goal, like "pass the ENEM in math") into a complete study path: a review schedule grounded in learning science (spaced repetition), exported as a universal calendar file, and flashcards contextualized with the student's real interests. This is not a generic "personalized learning" tool — it is built specifically for exam/college-entrance prep under real connectivity constraints, and grounded in two deliberate pedagogical choices, not just an engineering convenience.
 
